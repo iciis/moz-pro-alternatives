@@ -10,6 +10,10 @@ In this post, we’ll explore **top free Moz Pro alternatives** that can help yo
 
 ## What Does MozPro Do?
 
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=d/1XNhGPHbjA6I2Vji6l3K6z0g_xN-N5l7F"  alt="Mozpro Homepage">
+</a>
+
 **Moz Pro** is a popular **SEO (Search Engine Optimization) tool** that helps websites improve their visibility on search engines like Google. It offers a variety of features designed to make it easier to understand, track, and boost your site's performance online.
 
 Here’s what Moz Pro can do:
