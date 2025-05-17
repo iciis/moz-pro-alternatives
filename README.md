@@ -28,6 +28,10 @@ Helps you find the best keywords to target, based on what people are searching f
     
 - **Site Audits**
 
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1o0fTreIhPDIxcXc4cg7AL8j8xjuyANce"  alt="Mozpro Site Audit">
+</a>
+
 Scans your website to find issues like broken links, missing tags, or slow-loading pages that can hurt your SEO.
     
 - **Rank Tracking**
