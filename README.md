@@ -19,14 +19,22 @@ In this post, we’ll explore **top free Moz Pro alternatives** that can help yo
 Here’s what Moz Pro can do:
 
 - **Keyword Research**
-    
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=14Q6UtRmLFwhwaAAd2t6EZeD29yW4PX1b"  alt="Mozpro Keyword Explorer">
+</a>
+
     Helps you find the best keywords to target, based on what people are searching for and how competitive the terms are.
     
 - **Site Audits**
-    
+
     Scans your website to find issues like broken links, missing tags, or slow-loading pages that can hurt your SEO.
     
 - **Rank Tracking**
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1x9y-6K-VaNxh3K7HNvKyUrAzscjLjSBY"  alt="Mozpro Rank Tracking">
+</a>
     
     Monitors how your pages rank in search engine results over time for specific keywords.
     
@@ -35,7 +43,11 @@ Here’s what Moz Pro can do:
     Shows who is linking to your site and how those links impact your rankings. Also helps you discover link-building opportunities.
     
 - **On-Page Optimization**
-    
+
+<a href="https://afftrend.com/mozpro">
+  <img src="https://drive.google.com/uc?export=view&id=1qQT4-pzoCPeJ_RaQ6W_VUJLg_TSQwFQw"  alt="Mozpro Onpage optimization">
+</a>
+
     Gives suggestions to improve specific pages so they can rank better in search results.
     
 - **Competitor Analysis**
