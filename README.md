@@ -24,11 +24,11 @@ Here’s what Moz Pro can do:
   <img src="https://drive.google.com/uc?export=view&id=14Q6UtRmLFwhwaAAd2t6EZeD29yW4PX1b"  alt="Mozpro Keyword Explorer">
 </a>
 
-  Helps you find the best keywords to target, based on what people are searching for and how competitive the terms are.
+Helps you find the best keywords to target, based on what people are searching for and how competitive the terms are.
     
 - **Site Audits**
 
-  Scans your website to find issues like broken links, missing tags, or slow-loading pages that can hurt your SEO.
+Scans your website to find issues like broken links, missing tags, or slow-loading pages that can hurt your SEO.
     
 - **Rank Tracking**
 
@@ -36,11 +36,11 @@ Here’s what Moz Pro can do:
   <img src="https://drive.google.com/uc?export=view&id=1x9y-6K-VaNxh3K7HNvKyUrAzscjLjSBY"  alt="Mozpro Rank Tracking">
 </a>
     
-  Monitors how your pages rank in search engine results over time for specific keywords.
+Monitors how your pages rank in search engine results over time for specific keywords.
     
 - **Backlink Analysis**
     
-  Shows who is linking to your site and how those links impact your rankings. Also helps you discover link-building opportunities.
+Shows who is linking to your site and how those links impact your rankings. Also helps you discover link-building opportunities.
     
 - **On-Page Optimization**
 
@@ -48,11 +48,11 @@ Here’s what Moz Pro can do:
   <img src="https://drive.google.com/uc?export=view&id=1qQT4-pzoCPeJ_RaQ6W_VUJLg_TSQwFQw"  alt="Mozpro Onpage optimization">
 </a>
 
-  Gives suggestions to improve specific pages so they can rank better in search results.
+Gives suggestions to improve specific pages so they can rank better in search results.
     
 - **Competitor Analysis**
     
-  Lets you compare your SEO performance with competitors to find areas for improvement.    
+Lets you compare your SEO performance with competitors to find areas for improvement.    
 
 Overall, **Moz Pro helps users make smart SEO decisions** by offering clear data, helpful suggestions, and easy-to-use tools—all in one platform.
 
