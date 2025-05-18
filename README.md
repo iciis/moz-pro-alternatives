@@ -1,4 +1,4 @@
-# Best MozPro Alternatives to Boost Your SEO in 2025
+# Best Moz Pro Alternatives to Boost Your SEO in 2025
 
 If you’re looking to **optimize your website without breaking the bank**, Moz Pro may feel out of reach. While it's a powerful SEO tool, the cost can be a barrier for small businesses, freelancers, or beginners.
 
@@ -8,7 +8,7 @@ In this post, we’ll explore **top free Moz Pro alternatives** that can help yo
 
 **Get ready to boost your SEO game** without spending a dime. Let’s dive into the best free tools that can replace Moz Pro in your strategy.
 
-## What Does MozPro Do?
+## What Does Moz Pro Do?
 
 <a href="https://afftrend.com/mozpro">
   <img src="https://drive.google.com/uc?export=view&id=1ueznyXVgWOJF_dJYnIXchuMPlhm2GxkC"  alt="Mozpro Homepage">
